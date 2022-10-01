@@ -11,6 +11,10 @@ The file was not cleaned so care should be taken in choosing locations for the t
 Tests should be run using <city, country> pairs that are in airports.csv and have routes in routes.csv. Preferrably, major cities should be used for the test run.
   
 Preferably, the test can be run using any of the input files attached (i.e.txt files) and the output will be a new file ending with a <filename>_output.txt.
+  
+# Links to files in Main.java:
+I have attached the relevant csv files that Main.java is reading from. Save a local copy and put the path into the code before running.
+Also, pay attention to the names/paths of the .txt files for input.
 
 Thank you :)
 
